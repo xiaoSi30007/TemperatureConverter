@@ -1,0 +1,75 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
+input{
+    -moz-appearance:textfield;
+}
+body{
+   
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0HDQ0HBw0HBwcHBw0HBwcHDQ8IDQcNFREWFhURFRMYHSggGBolGxMTITEhJSkrLi4uFx8zODMsNygtLjcBCgoKDQ0NDw0NDysZFRkrKysrKysrKystKysrKysrKysrLS0rLSsrKy0rNzcrKystNy03Ky03NystLSsrKysrLf/AABEIALEBHAMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAADAgQBAAf/xAAdEAEBAQEBAQEBAQEAAAAAAAAAAgESscFxgREx/8QAGQEBAQEBAQEAAAAAAAAAAAAAAgMEAQAF/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/APmWf3/pZ/qMz0041R8bVXP9LOfqIw0YcQ1Vzn6Wc/Uzhow5GfVVOfpZxyZLMlIhrTs4WcemSzJyI605OEmXZksyUiOtJyV5K5leSXE7pGSrJJkqyXeJ3QuXuTcu8O8c9A5c2T8vcvce9M+yjZadlGy5wppn2R1LTsoqXOKTTLWDrGqpFUjYrnTNWfoqz9aakVSFi2dMtYKs/WqsDeDYtnTLWfoqz9aawNYFi+azVn6Kv60VgawK0ZrPX9Tn0tYjM9Cr5q5z0sYic9NGFEdVcYaMRGGjDiGqSMNGIjDRikZ9VcYacRGGjDjPqqmSzLk4aZKRDVemSzL0yWZORHWnJkmS7MkySkSuk5KsleSvJd4ndC5d5Ly7y7wfQeXNk3Lmy9x70DZRstGynZc4c0zbI6lp2R1I2KTTNUiqWmpFUjYrnTNUhrGqsDWDYvms1YG8aawN4Fi+ay3gbxqvAXgVozWa8DWNN4G8CtGazXicz0t4ic9TrRmqnPTRg5z00YUS1SRh4wUYeMUjNqljDRg4w8YcZ9UkYaMHGHjDjPqrjCziYw0YcZ9VU4WccnCzhxHVdnCTL04ScKRHWnMleSrJXklxK6RkvclyXuXeD6Fy5sm5c2XuPTQNkey0bKKlzhzTPUiqWmsFWDYrms9YGsaawVYFWzWWsFWNN4C8Cr5rNeBvGm8DeBWjNZrwF403gLwK0ZrPeAvGm8BeBWnNZ7xGZ6W8Hmep1ozVT9NAp+ngonosYeAweDjNo0YeMDB4UjPosYeMFB4OM2qSMPGCg8YcZ9Uk4WcRGFnDiGqucLOJnCzhxDVdnF5j04TMJK1OS7yvMV/jvA6LlOybcTuPcelBuIrD1g6xyqSs9YOsPWCrAq2az1gbxorBXg1fNZrwN40XgbCr5rNeBvGi8Badac1nvAXjTYLCtGWaw20WCwrTlntGfSWjPqdaMOz9NAZ+nh2Bs0HgEHhSM2jweAwaDjPs8HgEHhSM2jQeAwaDjPo0mkUGk4z6JJZHJZOIaJOEnESSSiNXmO/49K8JO1G4jcLo6edlFWDrC0OhquQ0GjUKgq2Q0GzWGwq+Q2Cz2CwrRkFgtosFhWjLPYbPYLTrTlnsFnsNhWnILRn1doz6FacPT9NAZ+mh6Bs8HgEHhSM+jweAQeDjNo8Hhng8KRm00QaAQaNOM+jwaQQadOM+jyWQTpZ04ho8kkM6TNKJWFzV/wCizXf9dTsXuo3XN1O687I5QqXWjrRqkg6FRK0VaNWyKg2WtDYVfIrBZrBYVoyGw2Ww2FachsFmsFp1oyCw2awWFachtGfVWjPqdacPT9NDPO+mh2Dppg0M8aeNOM+o0Rp41njTRqkZ9Rpg0azxpo04zajTGmjWeNNOnGfUaJ006zzpZ04hqNE6WdZ50k6UQ1GidXmgzV5R9SsPmu9Bynenej5J05tI6TtOdemVbo617aHWuWqSOVoq1VaKtGq5ia0N6utFehV8wd6G9JegvQq+YO9BelvQ3oVozBXoL0t6C9CtOYKwWW9Dep1ozA2jPqr1GfQrThyd9NGs876aNej2o0Rp41mjTRpxm1GmNPGs0aaNOM+o0xp41ljTxqkZ9RpjTTrLOmnTiGo0zpp1lnSzRRDUaZ0k0zzRJo5UbloylZQMpWU71O5P070HKd6d6PkvSdofTm0917yvaRtJ2kbTnTmXaoda9VDqhtVzlytDWqqhVQ1bMTehvVVoa0KvmIvQ3q70N6FaMxF6C9JegvQq+YO9DekvQ3qdacwV6jPrt6nN9CtGYmd9LGs+b6adejuo0Rpo1mjTTpxn1GqNNGss6aNOM+o1Rpp1ljTTpyoajTOmmmWaLNHKhqNU0WaZZos0UqOstM0TKZZomUXUrloyl5TPlKynep3J8p3oHTvTvR8m6c2hdObT3XfJNpG0jaRtOdKZXtDqk7Q6py1SZdqhVT1UOqC1XOXKoVa7VBqhtXzHK0N6qtDehavmJvQVq70N6FXzEXoa1daG9CtGYi9Rm+vVqc30K0ZiM3006zZvpZ1yO6jTOmnWadLOnKhqNU6WdZp0s0cqGo1TRZplmjTRyoay1TRJpmmiTRSo6y1TRJplmiTRSo3LVlLymbKXlF1O5acpWUzZSsp3oXLR090Dt3t3o+TdOdB7e6e675LtI2h7SdpzrsyvaRVI2kbTnVJlVUOqTVDqhtVzl2qFVPVQqobVc5cqhVTtUKqC1fOU1oq12qFWhV8xNaGtVWirRq+YmtRm+vVqJ30KvmIzfSzrPm+knXIWo0zpZ1mnSzRSo6jTOmmmWaLNHKhrLVNFmmWaJNFKjrLVNFmmWaJNHKlctU0vKZppeU7KlctWUrKZspeUXU7lpyncpnyncp3oXLR072z9O9O9c8n7c6D050917yXac2hbadpzpTJNpG0jaRtOdOZXVDqkVSKoeqTLtUOqcqhVQ2q5y7VCqnqoVUNq2cvVQq16qHVBatmOVoa1VaKtG1fMTWpnfXK1M76FWzFYSXnnoWiyWXniiOiSWXniiOiySXniiNJJJeeOJUmLx552JVeKx54gqlY886Dzrjzzjzzzzzzmp1554onUa88JxGopx5yqRFDp54apB0Knnhq2R0Knnhq0FQqdeCrZFSc+vPCrH//Z);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+#container{
+    width:30%;
+    height: 45%;
+    margin-left: 33%;
+    margin-top: 10%;
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: rgb(38, 239, 239);
+    box-sizing: border-box;
+}
+
+ h1{
+    text-align: center;
+    padding-top:6%;
+    height:25%;
+    box-sizing: border-box;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    background-color: black;
+    color: aqua;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.items{
+    line-height:60px;
+}
+.units{
+    background-color: black;
+    color: aqua;
+    width:50px;
+    margin-top: 12px;
+    height: 40px;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 4px;
+}
+input{
+    width: 70%;
+    height:40px;
+    font-size: 20px;
+    border-radius: 4px;
+    text-align: center;
+}
+#reset{
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+    margin-left: 40%;
+    margin-top: 2%;
+    font-size:20px;
+    color: aqua;
+    background-color: black;
+}
+#reset:hover{
+    color:black;
+    background-color: white;
+}
